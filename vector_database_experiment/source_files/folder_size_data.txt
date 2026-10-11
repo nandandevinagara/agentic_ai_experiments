@@ -1,0 +1,32 @@
+
+Folder sizes in: /hkfs/home/project/hk-project-pai00012/st_st189656 (depth ≤ 2)
+
+- . : 616.74 GB
+- datasets : 448.66 GB
+  - datasets/ucf101 : 6.46 GB
+  - datasets/ikea_asm_dataset : 416.57 GB
+    - datasets/ikea_asm_dataset/annotations : 20.22 GB
+    - datasets/ikea_asm_dataset/data : 396.35 GB
+  - datasets/drive_and_act : 25.63 GB
+    - datasets/drive_and_act/annotations : 0.43 GB
+    - datasets/drive_and_act/a_column_co_driver : 16.07 GB
+- myenv : 5.33 GB
+  - myenv/lib : 5.33 GB
+    - myenv/lib/python3.9 : 5.33 GB
+- .local : 0.14 GB
+  - .local/lib : 0.14 GB
+    - .local/lib/python3.11 : 0.14 GB
+- playground : 8.09 GB
+  - playground/ucf101 : 7.27 GB
+    - playground/ucf101/UCF-101 : 0.81 GB
+  - playground/Parrot : 0.82 GB
+    - playground/Parrot/Parrot-7B : 0.76 GB
+- parrot_env : 5.18 GB
+  - parrot_env/lib : 5.18 GB
+    - parrot_env/lib/python3.9 : 5.18 GB
+- .cache : 149.35 GB
+  - .cache/pip : 2.91 GB
+    - .cache/pip/http-v2 : 2.88 GB
+  - .cache/huggingface : 146.44 GB
+    - .cache/huggingface/hub : 136.46 GB
+    - .cache/huggingface/xet : 9.98 GB

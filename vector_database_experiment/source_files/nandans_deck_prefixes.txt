@@ -1,0 +1,22 @@
+What type of prefix is "ab-" and what does it mean?	Separable prefix — means "off, away" (e.g. abfahren = to depart)
+What type of prefix is "an-" and what does it mean?	Separable prefix — means "on, at" (e.g. ankommen = to arrive)
+What type of prefix is "auf-" and what does it mean?	Separable prefix — means "up, open" (e.g. aufmachen = to open)
+What type of prefix is "aus-" and what does it mean?	Separable prefix — means "out, off" (e.g. ausgehen = to go out)
+What type of prefix is "ein-" and what does it mean?	Separable prefix — means "in, into" (e.g. einsteigen = to get in)
+What type of prefix is "mit-" and what does it mean?	Separable prefix — means "with, along" (e.g. mitkommen = to come along)
+What type of prefix is "vor-" and what does it mean?	Separable prefix — means "before, in front of" (e.g. vorstellen = to introduce)
+What type of prefix is "be-" and what does it mean?	Inseparable prefix — makes a verb transitive (e.g. besuchen = to visit)
+What type of prefix is "ent-" and what does it mean?	Inseparable prefix — means "away, escaping" (e.g. entfliehen = to escape)
+What type of prefix is "er-" and what does it mean?	Inseparable prefix — means "completing, achieving" (e.g. erreichen = to reach)
+What type of prefix is "ge-" and what does it mean?	Inseparable prefix — often a perfect tense marker in other contexts (e.g. gewinnen = to win)
+What type of prefix is "ver-" and what does it mean?	Inseparable prefix — means "bad or wrong, often changes meaning" (e.g. verstehen = to understand)
+What type of prefix is "zer-" and what does it mean?	Inseparable prefix — means "destroying or breaking" (e.g. zerbrechen = to break apart)
+What type of prefix is "durch-" and what does it mean?	Ambivalent prefix — means "through" (can be separable or inseparable)
+What type of prefix is "über-" and what does it mean?	Ambivalent prefix — means "over, across" (can be separable or inseparable)
+What type of prefix is "um-" and what does it mean?	Ambivalent prefix — means "around, changing" (can be separable or inseparable)
+What type of prefix is "unter-" and what does it mean?	Ambivalent prefix — means "under" (can be separable or inseparable)
+Name all separable prefixes in German.	ab-, an-, auf-, aus-, ein-, mit-, vor-
+Name all inseparable prefixes in German.	be-, ent-, er-, ge-, ver-, zer-
+Name all ambivalent prefixes in German.	durch-, über-, um-, unter-
+What is the difference between separable and inseparable prefixes?	Separable prefixes split off to the end of the sentence in main clauses. Inseparable prefixes always stay attached to the verb.
+What makes ambivalent prefixes special?	They can be either separable or inseparable depending on the verb and meaning.
